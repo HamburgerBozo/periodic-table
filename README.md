@@ -1,4 +1,4 @@
-# Periodic Table of ElementsAdd commentMore actions
+# Periodic Table of Elements
 
 Non professional user made periodic table of elements
 
