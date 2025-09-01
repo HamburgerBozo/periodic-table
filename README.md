@@ -16,6 +16,7 @@ Moved from the previews
 - add costumization layer with local saves (half done)
 - add mobile support (done) - posted (on device with screen < 800px it will show a block page
   - add on mobile devices (screen width < 800) a continue anyways button (some cheap phone does not have that resolution)
+  - dding ts ng mobile check
 
 This repository contains a very simple periodic table containing elements from Hydrogen to Oganesson, including arrayed deatails as oxidation numbers, special electronic configuration, type and other properties, I will soon add more.
 
