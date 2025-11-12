@@ -297,8 +297,10 @@ body::before {
     border: 1px solid #ffe066;
 }
 
+/*ci è voluto SOLO qualche anno per accorgiermi di averlo erroneamente cancellato*/
 .alkaline-earth-metal,
-.metal-alcalino-pamantos {
+.metal-alcalino-pamantos,
+.metallo-alcalino-terroso {
     background: #232526;
     border: 1px solid #fff3b0;
 }
@@ -436,4 +438,5 @@ body::before {
         opacity: 1;
         transform: translateY(0);
     }
+
 }
